@@ -135,6 +135,8 @@ void BubbleSort(int a[], int n)
 	}
 }
 思路：从前往后比较，大数下（后）移，比较n-1次。
+
+4、插入排序
 void InsertSort(int a[], int n)
 {
 	int i, j, x;
